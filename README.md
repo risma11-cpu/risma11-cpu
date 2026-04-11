@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF4D6D&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Cima+💖;Informatics+Student;Learning+Frontend+Development;Welcome+to+my+portfolio+✨">
 </p>
 
-<h2 align="center">💗 My GitHub Profile 💗</h2>
+<h2 align="center">Cima's Space</h2>
 
 <p align="center">
 💖 Learning • Growing • Building • Exploring 💖
