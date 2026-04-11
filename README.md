@@ -5,7 +5,7 @@
 <h3 align="center">Informatics Student from Indonesia 🇮🇩</h3>
 
 <p align="center">
-✨ Clean • Glassy • Dark • Aesthetic vibes
+✨ Learning • Growing • Building • Exploring
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 🎓 Mahasiswa Teknik Informatika
 - 💻 Sedang belajar Frontend Development
 - 🎨 Tertarik UI/UX & desain aesthetic
-- 🌱 Lagi belajar HTML, CSS, JavaScript
+- 🌱 Sedng belajar HTML, CSS, JavaScript
 
 ---
 
