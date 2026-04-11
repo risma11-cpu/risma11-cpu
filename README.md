@@ -1,29 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8B5E3C&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Cima+👋;Frontend+Developer;Aesthetic+%26+Clean+Design;Welcome+to+my+profile+✨">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4D6D&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Cima+👋;Frontend+Developer;Love+UI%2FUX+Design;Welcome+to+my+profile+✨">
 </p>
 
-<!-- GIF SOFT AESTHETIC -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"/>
-</p>
-
-<h3 align="center">Frontend Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Frontend Developer from Indonesia</h3>
 
 <p align="center">
-✨ Clean • Soft • Aesthetic • Minimalist vibes
+✨ Crafting logic and elegance in every line of code ✨
 </p>
 
 ---
 
-### 🌸 About Me
+### 🚀 About Me
 - 🎓 Mahasiswa Teknik Informatika
 - 💻 Fokus di Frontend Development
-- 🎨 Suka UI/UX & desain aesthetic
-- 🌱 Lagi belajar JavaScript
+- 🌱 Lagi belajar JavaScript & UI/UX
+- ☕ Suka desain aesthetic & calm vibes
 
 ---
 
-### 🧸 Skills
+### 🛠️ Skills
 <p align="center">
 HTML • CSS • JavaScript • UI Design
 </p>
@@ -37,11 +32,7 @@ HTML • CSS • JavaScript • UI Design
 
 ---
 
-### 📊 My GitHub
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=risma11-cpu&show_icons=true&theme=gruvbox"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=risma11-cpu&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=risma11-cpu&show_icons=true&theme=radical"/>
 </p>
