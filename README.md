@@ -3,11 +3,6 @@
   <img src="banner1.png" width="100%"/>
 </p>
 
-<!-- BANNER KEDUA -->
-<p align="center">
-  <img src="banner2.png" width="70%"/>
-</p>
-
 <!-- ANIMASI -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF4D6D&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Cima+💖;Informatics+Student;Learning+Frontend+Development;Welcome+to+my+portfolio+✨">
