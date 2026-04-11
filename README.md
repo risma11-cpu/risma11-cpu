@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF4D6D&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Cima+👋;Informatics+Student;Learning+Frontend+Development;Welcome+to+my+portfolio+✨">
 </p>
 
-<h3 align="center">Informatics Student from Indonesia 🇮🇩</h3>
+<h3 align="center">Informatics Student from Indonesia</h3>
 
 <p align="center">
 ✨ Learning • Growing • Building • Exploring
