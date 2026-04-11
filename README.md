@@ -14,7 +14,7 @@
 - 🎓 Mahasiswa Teknik Informatika
 - 💻 Sedang belajar Frontend Development
 - 🎨 Tertarik UI/UX & desain aesthetic
-- 🌱 Sedng belajar HTML, CSS, JavaScript
+- 🌱 Sedang belajar HTML, CSS, JavaScript
 
 ---
 
