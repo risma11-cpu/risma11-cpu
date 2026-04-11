@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8B5E3C&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Cima+☕;Frontend+Developer;Aesthetic+%26+Calm+Design;Welcome+to+my+space+✨">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B5E3C&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Cima+👋;Frontend+Developer;Aesthetic+%26+Clean+Design;Welcome+to+my+profile+✨">
 </p>
 
-<!-- GIF AESTHETIC LUCU -->
+<!-- GIF SOFT AESTHETIC -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"/>
 </p>
 
 <h3 align="center">Frontend Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-☕ Soft • Calm • Aesthetic • Minimalist vibes
+✨ Clean • Soft • Aesthetic • Minimalist vibes
 </p>
 
 ---
@@ -20,7 +20,6 @@
 - 💻 Fokus di Frontend Development
 - 🎨 Suka UI/UX & desain aesthetic
 - 🌱 Lagi belajar JavaScript
-- ☕ Coffee + coding = perfect combo
 
 ---
 
