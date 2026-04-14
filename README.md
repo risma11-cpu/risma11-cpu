@@ -29,9 +29,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-#
+###
 <p align="center">
-<img scr="https://skillicons.dev/icons?i=vscode,github"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github" />
+  </a>
+</p>
+
 
 ---
 
