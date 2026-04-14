@@ -26,7 +26,7 @@
 
 ### 💓 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodes" />
 </p>
 
 ---
@@ -39,5 +39,5 @@
 ---
 
 <p align="center">
-💖 thanks for visiting my profile 💖
+ thanks for visiting my profile 
 </p>
