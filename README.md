@@ -1,6 +1,6 @@
 <!-- BANNER UTAMA -->
 <p align="center">
-  <img src="banner1.png" width="100%"/>
+  <img src="" width="100%"/>
 </p>
 
 <!-- ANIMASI -->
